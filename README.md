@@ -1,3 +1,6 @@
+
+<img width="591" alt="Screenshot 2024-07-12 195255" src="https://github.com/user-attachments/assets/d64a2089-d819-4854-9d73-3c23041da8c2">
+
 # Picasso-Inspired Webpage Template
 
 This repository contains a customizable, Picasso-inspired webpage template. It features a vibrant color scheme, abstract shapes, and a responsive design, perfect for creating an artistic and modern web presence.
